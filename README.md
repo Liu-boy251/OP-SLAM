@@ -11,7 +11,7 @@ The dependent libraries include:
 * gtsam
 # Building
 After libraries are successfully installed, we can proceed with the compilaation:
-*./build.sh
+          ./build.sh
 # Run
 For running the program:
 1. cd OP-SLAM
