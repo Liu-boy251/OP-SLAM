@@ -1,5 +1,0 @@
-/home/liu-420/vslam/OP_SLAM/build/CMakeFiles/rebuild_cache.dir
-/home/liu-420/vslam/OP_SLAM/build/CMakeFiles/edit_cache.dir
-/home/liu-420/vslam/OP_SLAM/build/CMakeFiles/main.dir
-/home/liu-420/vslam/OP_SLAM/build/CMakeFiles/main_zed.dir
-/home/liu-420/vslam/OP_SLAM/build/CMakeFiles/OP_SLAM.dir

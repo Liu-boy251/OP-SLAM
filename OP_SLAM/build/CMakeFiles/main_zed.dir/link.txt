@@ -1,1 +1,0 @@
-/usr/bin/c++   -Wall   -O3 -march=native -std=c++11 -O3 -DNDEBUG  -rdynamic CMakeFiles/main_zed.dir/main_zed.cpp.o  -o ../main_zed   -L/usr/local/cuda-11.2/lib64  -L/usr/local/zed/lib  -Wl,-rpath,/usr/local/cuda-11.2/lib64:/usr/local/zed/lib /usr/local/zed/lib/libsl_zed.so -lopenblas -lusb-1.0 -lnvidia-encode -lcuda /usr/local/cuda-11.2/lib64/libcudart.so 
