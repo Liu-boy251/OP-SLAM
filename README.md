@@ -2,9 +2,9 @@
  A semantic SLAM for semi-structured environments using object and plane detection.Our envirnments: ubuntu20.04,ROS1. GPU: RTX3080.
 # Installation
 The dependent libraries include:
-   opencv4.6
-   DBoW2
-   G2o
+opencv4.6
+DBoW2
+G2o
    PLC-1.10
    Pangolin
    ceres
